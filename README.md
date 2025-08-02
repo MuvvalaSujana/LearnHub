@@ -147,7 +147,7 @@ This project is open-source under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Likhitha Nasaka**
-📧 Email: [likhithagayatri36@gmail.com](mailto:likhithagayatri36@gmail.com)
-🔗 GitHub: [Likhi9680](https://github.com/Likhi9680)
+**Muvvala Sujana**
+📧 Email: [sujanamuvvala02@gmail.com](mailto:sujanamuvvala02@gmail.com)
+🔗 GitHub: [MuvvalaSujana](https://github.com/MuvvalaSujana)
 
